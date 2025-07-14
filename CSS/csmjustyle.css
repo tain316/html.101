@@ -3,18 +3,18 @@
           margin: 0;
           padding: 0;
           background-color: rgb(68, 173, 201);
-          color: bisque;
+          color: rgb(226, 155, 68);
           text-align: center;
           font-size: 1.5em;
       }
         header {
-          background: #ebebeb;
+          background: #47e22c;
           color: #e45353;
           padding: 10px 0;
           text-align: left;
       }
        nav {
-          background: #444;
+          background: #a0c869;
           
       }
       nav ol {
@@ -26,7 +26,7 @@
           margin-right: 10px;
       }
       nav ol a {
-          color: #fff;
+          color: #682e2e;
           text-decoration: none;
       }
         nav ol a:hover {
@@ -35,7 +35,7 @@
       
       footer {
           background: #333;
-          color: #fff;
+          color: #41d27b;
           text-align: center;
           padding: 10px 0;
           position: relative;
@@ -44,6 +44,10 @@
         }  
         .csmju-text {
           font-size: 1.2em;
-          color: #ffffff;
+          color: #e56d6d;
           margin: 50px 0;
+        }
+        .csimage {
+          width: 200px;
+          height: 350px;
         }
